@@ -1,0 +1,117 @@
+body{
+
+
+    
+}
+.col-1 { width: 8.33%;}
+ .col-2 { width: 16.66%;}
+ .col-3 { width: 25%;}
+ .col-4 { width: 33.33%;}
+ .col-5 { width:41.66%;}
+ .col-6{ width: 50%;}
+ .col-7 { width:58.33%;}
+ .col-8 { width:66.66%;}
+ .col-9 { width:75%;}
+ .col-10 { width: 83.33%;}
+ .col-11 { width: 91.66%;}
+ .col-12 { width: 100%;}
+ /* navber start here */
+ .image{
+     text-align: left;
+ }
+ .nav-heading{
+     text-align: right;
+ }
+ .nav-menu{
+  
+
+     flex-direction: row;
+     justify-content: flex-end;
+     margin-top :15px; 
+ }
+ .nav-menu a{
+     margin: 0px 10px;
+     padding:10px 12px;
+     font-size: 1rem;
+ }
+
+    
+ .profile-description p{
+    margin: 0 auto;
+    width: 70%;
+    color: gray;
+    margin-bottom: 10px;
+    text-align:center;
+
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .top-profile-image:hover{
+        transform: rotate(360deg);
+        height: 130px;
+        width: 110px;
+    }
+
+    .bottom-profile-image:hover{
+        transform: rotate(360deg);
+        height: 130px;
+        width: 110px;
+    } 
+
+
+.aboutme-image{
+margin-top: 100px;
+
+}
+.aboutme-image img{
+    height: 180px;
+    width: 160px;
+    border-radius: 50%;
+    
+    }
+    .aboutme-desc p{
+        text-align: left;
+    }
+    /* achievement start here */
+.achievement{
+
+   padding-right: 50px;
+}
+.contact-link{
+position: relative;
+
+
+}
+.media-buttons{
+   position: absolute;
+   left: 50%;
+   top: 50%;
+   margin-top: 200px;
+   transform: translate(-50%,-50%);
+
+}
+
+
+
+
+
+   /* achievement end here */
+   /* footer start here */
+.footer-menu{
+
+}
+
+.footer-menu a{
+    display: inline;
+}
+
+
+
+
+
+      /* footer start here */
